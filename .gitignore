@@ -1,0 +1,15 @@
+# Firmware large files
+Firmware/*.img
+Firmware/*.zip
+Firmware/*.7z
+Firmware/*.tar.gz
+Firmware/*.bin
+
+# OS temp
+.DS_Store
+Thumbs.db
+
+# build/cache
+build/
+dist/
+*.log
